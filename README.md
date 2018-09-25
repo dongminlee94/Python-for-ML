@@ -7,7 +7,7 @@
 
 ## Contents
 
-01 - Pythonic Code
+01-1 : Pythonic Code
 
 1. Pythonic Code
     - Overview
@@ -21,25 +21,31 @@
 
 2. News Categorization
 
-<br>
+01-2 : Assignment
 
-3. Pythonic Code Lab
-
-02 - Data Handling
-
-- Numpy
-- Pandas
-- Matplotlib
-- Data Cleaning
+1. Pythonic Code Lab
 
 <br>
 
-- Numpy Lab
+02-1 : Data Handling
 
-03 - Linear Regression
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Data Cleaning
 
-- Pass
+02-2 : Assignment
 
-04 - Logistic Regression
+1. Numpy Lab
 
-- Pass
+<br>
+
+03-1 : Linear Regression
+
+03-2 : Assignment
+
+<br>
+
+04-1 : Logistic Regression
+
+04-2 : Assignment
