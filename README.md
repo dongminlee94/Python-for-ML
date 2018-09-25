@@ -10,14 +10,15 @@
 01 - Pythonic Code
 
 - Pythonic Code
-    1) Overview
-    2) Split & Join
-    3) List Comprehension
-    4) Enumerate & Zip
-    5) Lambda & MapReduce
-    6) Asterisk
-    7) Data Structure - Collections
-    8) Linear algebra codes
+    1. Overview
+    2. Split & Join
+    3. List Comprehension
+    4. Enumerate & Zip
+    5. Lambda & MapReduce
+    6. Asterisk
+    7. Data Structure - Collections
+    8. Linear algebra codes
+
 - News Categorization
 
 <br>
