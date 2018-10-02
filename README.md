@@ -7,11 +7,11 @@
 
 ## Contents
 
-### [Pythonic Code]()
+### 1. [Pythonic Code]()
 
-01-1 : [Lecture]()
+1) [Lecture]()
 
-1. [Pythonic Code]()
+- [Pythonic Code]()
     - Overview
     - Split & Join
     - List Comprehension
@@ -21,11 +21,11 @@
     - Data Structure - Collections
     - Linear algebra codes
 
-2. [News Categorization]()
+- [News Categorization]()
 
-01-2 : [Assignment]()
+2) [Assignment]()
 
-1. [Pythonic Code Lab]()
+- [Pythonic Code Lab]()
 
 <br>
 
