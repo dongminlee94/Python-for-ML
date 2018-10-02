@@ -7,9 +7,11 @@
 
 ## Contents
 
-01-1 : Pythonic Code
+### [Pythonic Code]()
 
-1. Pythonic Code
+01-1 : [Lecture]()
+
+1. [Pythonic Code]()
     - Overview
     - Split & Join
     - List Comprehension
@@ -19,33 +21,39 @@
     - Data Structure - Collections
     - Linear algebra codes
 
-2. News Categorization
+2. [News Categorization]()
 
-01-2 : Assignment
+01-2 : [Assignment]()
 
-1. Pythonic Code Lab
-
-<br>
-
-02-1 : Data Handling
-
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Data Cleaning
-
-02-2 : Assignment
-
-1. Numpy Lab
+1. [Pythonic Code Lab]()
 
 <br>
 
-03-1 : Linear Regression
+### [Data Handling]()
 
-03-2 : Assignment
+02-1 : [Lecture]()
+
+1. [Numpy]()
+2. [Pandas]()
+3. [Matplotlib]()
+4. [Data Cleaning]()
+
+02-2 : [Assignment]()
+
+1. [Numpy Lab]()
 
 <br>
 
-04-1 : Logistic Regression
+### [Linear Regression]()
 
-04-2 : Assignment
+03-1 : [Lecture]()
+
+03-2 : [Assignment]()
+
+<br>
+
+### [Logistic Regression]()
+
+04-1 : [Lecture]()
+
+04-2 : [Assignment]()
