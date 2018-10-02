@@ -7,9 +7,9 @@
 
 ## Contents
 
-### 1. [Pythonic Code]()
+### 01. [Pythonic Code]()
 
-#### [Lecture]()
+#### I. [Lecture]()
 
 - [Pythonic Code]()
     - Overview
@@ -23,37 +23,37 @@
 
 - [News Categorization]()
 
-#### [Assignment]()
+#### II. [Assignment]()
 
 - [Pythonic Code Lab]()
 
 <br>
 
-### [Data Handling]()
+### 02. [Data Handling]()
 
-02-1 : [Lecture]()
+#### I. [Lecture]()
 
-1. [Numpy]()
-2. [Pandas]()
-3. [Matplotlib]()
-4. [Data Cleaning]()
+- [Numpy]()
+- [Pandas]()
+- [Matplotlib]()
+- [Data Cleaning]()
 
-02-2 : [Assignment]()
+#### II. [Assignment]()
 
-1. [Numpy Lab]()
-
-<br>
-
-### [Linear Regression]()
-
-03-1 : [Lecture]()
-
-03-2 : [Assignment]()
+- [Numpy Lab]()
 
 <br>
 
-### [Logistic Regression]()
+### 03. [Linear Regression]()
 
-04-1 : [Lecture]()
+#### I. [Lecture]()
 
-04-2 : [Assignment]()
+#### II. [Assignment]()
+
+<br>
+
+### 04. [Logistic Regression]()
+
+#### I. [Lecture]()
+
+#### II. [Assignment]()
