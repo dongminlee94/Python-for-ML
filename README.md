@@ -9,7 +9,7 @@
 
 ### 1. [Pythonic Code]()
 
-1) [Lecture]()
+#### [Lecture]()
 
 - [Pythonic Code]()
     - Overview
@@ -23,7 +23,7 @@
 
 - [News Categorization]()
 
-2) [Assignment]()
+#### [Assignment]()
 
 - [Pythonic Code Lab]()
 
