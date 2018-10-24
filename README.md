@@ -9,7 +9,7 @@
 
 ### 01. [Pythonic Code]()
 
-#### [Lecture]()
+1. [Lecture]()
 
 - [Pythonic Code]()
     - Overview
@@ -23,7 +23,7 @@
 
 - [News Categorization]()
 
-#### [Assignment]()
+2. [Assignment]()
 
 - [Pythonic Code Lab]()
 
@@ -31,13 +31,13 @@
 
 ### 02. [Data Handling]()
 
-#### [Lecture]()
+1. [Lecture]()
 
 - [Numpy]()
 - [Pandas]()
 - [Matplotlib]()
 - [Data Cleaning]()
 
-#### [Assignment]()
+2. [Assignment]()
 
 - [Numpy Lab]()
