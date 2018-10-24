@@ -11,21 +11,21 @@
 
 1. [Lecture]()
 
-- [Pythonic Code]()
-    - Overview
-    - Split & Join
-    - List Comprehension
-    - Enumerate & Zip
-    - Lambda & MapReduce
-    - Asterisk
-    - Data Structure - Collections
-    - Linear algebra codes
+    - [Pythonic Code]()
+        - Overview
+        - Split & Join
+        - List Comprehension
+        - Enumerate & Zip
+        - Lambda & MapReduce
+        - Asterisk
+        - Data Structure - Collections
+        - Linear algebra codes
 
-- [News Categorization]()
+    - [News Categorization]()
 
 2. [Assignment]()
 
-- [Pythonic Code Lab]()
+    - [Pythonic Code Lab]()
 
 <br>
 
@@ -33,11 +33,11 @@
 
 1. [Lecture]()
 
-- [Numpy]()
-- [Pandas]()
-- [Matplotlib]()
-- [Data Cleaning]()
+    - [Numpy]()
+    - [Pandas]()
+    - [Matplotlib]()
+    - [Data Cleaning]()
 
 2. [Assignment]()
 
-- [Numpy Lab]()
+    - [Numpy Lab]()
