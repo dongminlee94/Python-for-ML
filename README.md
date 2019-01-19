@@ -7,11 +7,11 @@
 
 ## Contents
 
-### 01. [Pythonic Code]()
+### 01. [Pythonic Code](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code)
 
-1. [Lecture]()
+1. [Lecture](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code/Lecture)
 
-    - [Pythonic Code]()
+    - [Pythonic Code](https://github.com/dongminleeai/Python-for-ML/blob/master/01.%20Pythonic%20Code/Lecture/01-1.%20Pythonic%20Code.ipynb)
         - Overview
         - Split & Join
         - List Comprehension
@@ -21,23 +21,24 @@
         - Data Structure - Collections
         - Linear algebra codes
 
-    - [News Categorization]()
+    - [News Categorization](https://github.com/dongminleeai/Python-for-ML/blob/master/01.%20Pythonic%20Code/Lecture/01-2.%20News%20Categorization.ipynb)
 
-2. [Assignment]()
+2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code/Assignment/1.%20Pythonic%20Code%20Lab)
 
-    - [Pythonic Code Lab]()
+    - [Pythonic Code Lab](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code/Assignment/1.%20Pythonic%20Code%20Lab)
 
 <br>
 
-### 02. [Data Handling]()
+### 02. [Data Handling](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling)
 
-1. [Lecture]()
+1. [Lecture](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Lecture)
 
-    - [Numpy]()
+    - [Overview](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-1.%20Overview.ipynb)
+    - [Numpy](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-2.%20Numpy.ipynb)
     - [Pandas]()
     - [Matplotlib]()
     - [Data Cleaning]()
 
-2. [Assignment]()
+2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment)
 
-    - [Numpy Lab]()
+    - [Numpy Lab](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment/1.%20Numpy%20Lab)
