@@ -56,6 +56,7 @@
 1. [Lecture](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Lecture)
 
     - [Overview](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-1.%20Overview.ipynb)
+
     - [Numpy](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-2.%20Numpy.ipynb)
         - Numpy이란?
         - Numpy 특징
@@ -98,8 +99,11 @@
         - Numpy data i/o
             - loadtxt & savetxt
             - numpy object - npy
+
     - [Pandas](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-3.%20Pandas.ipynb)
+
     - [Matplotlib]()
+
     - [Data Cleaning]()
 
 2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment)
