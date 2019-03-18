@@ -102,10 +102,63 @@
             - numpy object - npy
 
     - [Pandas](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-3.%20Pandas.ipynb)
+        - Pandas란?
+        - 데이터 로딩
+        - Pandas의 구성
+        - Series
+        - Dataframe
+        - Selection & Drop
+            - Selection with column names
+            - Selection with index number
+            - Series selection
+            - Index 변경
+            - Basic, loc, iloc selection
+            - index 재설정
+            - Data drop
+        - Dataframe Operations
+            - Series operation
+            - Dataframe operation
+            - Series + Dataframe
+        - Lambda, Map, Apply
+            - Map for series
+            - Replace function
+            - Apply for dataframe
+            - Applymap for dataframe
+        - Pandas Built-in functions
+            - describe
+            - unique
+            - label str -> index 값으로 변환
+            - sum
+            - isnull
+            - sort_values
+        - Groupby
+            - Groupby 사용법
+            - Hierarchical index
+                - unstack()
+                - swaplevel()
+            - gropued
+            - aggregation
+            - transformation
+            - filter
+        - Case study (phone_data.csv)
+        - Pivot table & Crosstab
+        - Merge & Concat
+            - Merge
+                - Inner join
+                - Left join
+                - Right join
+                - Full(outer) join
+            - Concat
+        - Persistence
+            - DB persistence
+            - XLS persistence
+            - Pickle persistence
 
     - [Matplotlib]()
 
     - [Data Cleaning]()
+
+    - [Kaggle]()
 
 2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment)
 
