@@ -36,6 +36,7 @@
 2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code/Assignment/1.%20Pythonic%20Code%20Lab)
 
     - [Pythonic Code Lab](https://github.com/dongminleeai/Python-for-ML/tree/master/01.%20Pythonic%20Code/Assignment/1.%20Pythonic%20Code%20Lab)
+
         - vector_size_check
         - vector_addition
         - vector_subtraction
@@ -109,6 +110,7 @@
 2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment)
 
     - [Numpy Lab](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment/1.%20Numpy%20Lab)
+
         - n_size_ndarray_creation
         - zero_or_one_or_empty_ndarray
         - change_shape_of_ndarray
