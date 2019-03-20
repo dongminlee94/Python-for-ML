@@ -154,11 +154,46 @@
             - XLS persistence
             - Pickle persistence
 
-    - [Matplotlib]()
+    - [Matplotlib](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-4.%20Matplotlib.ipynb)
+        - Matplotlib란?
+        - 기본 사용법
+            - Matplotlib
+            - Set color
+            - Set linstyle
+            - Set title
+            - Set legend
+            - Set grid & xylim
+        - Matplotlib Graph
+            - Scatter
+            - Bar chart
+            - Histogram
+            - Boxplot
+        - Matplotlib with pandas
 
-    - [Data Cleaning]()
+    - [Data Cleaning](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-5.%20Data%20Cleansing.ipynb)
+        - Data problems
+            - Data quality problems
+            - Data preprocessing issues
+        - Missing Values
+            - 데이터가 없을 때 할 수 있는 전략
+            - Data drop
+            - Data Fill
+        - Category data
+            - One Hot Encoding
+            - Data binning
+        - Feature scaling
+            - Min-Max Normalization
+            - Z-Score Normalization
 
-    - [Kaggle]()
+    - [Kaggle - Titanic](https://github.com/dongminleeai/Python-for-ML/blob/master/02.%20Data%20Handling/Lecture/02-6.%20Kaggle%20-%20Titanic.ipynb)
+        - Titanic이란?
+        - Load dataset
+        - Data preproecessing
+            - Check null values
+            - Drop Columns
+            - Add to null values
+            - One-Hot Encoding Columns
+        - Build Model
 
 2. [Assignment](https://github.com/dongminleeai/Python-for-ML/tree/master/02.%20Data%20Handling/Assignment)
 
